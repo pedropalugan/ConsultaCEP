@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+}
+
+.mainContent {
+    border: solid 0px transparent;
+    border-radius: 10px;
+    background-color: #daf0ff;
+    margin-left: 17.5%;
+    margin-right: 17.5%;
+    margin-top: 15%;
+    margin-bottom: 15%;
+    height: 350px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.title {
+    margin-top: 10%;
+    margin-bottom: 10%;
+    font-size: xx-large;
+}
+
+body{
+    background: linear-gradient( to right,  rgb(160, 153, 253), rgb(103, 132, 226), rgb(51, 79, 238));
+}
+
+
+.mainForm{
+    display: flex;
+    flex-direction: column;
+}
+
+label{
+    font-size: larger;
+}
+
+input{
+    width: 50%;
+}

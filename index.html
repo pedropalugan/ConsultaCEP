@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,29 +9,36 @@
     <link rel="stylesheet" href="main.css">
     <link rel="icon" href="Images/download.png">
 </head>
+
 <body>
-    <div class = "mainContent">
-        <div class = "title">CONSULTA CEP</div>
-        <form class = "mainForm">
-            <label id = "forCep">CEP</label>
-            <input placeholder="00000000" id = "cep" type="text">
-            <input type="button" id = "submit" onclick="verificarCep()" value="Verificar">
-            <br>
-            <label>Rua:</label>
-            <output id = "logradouro"></output>
-            <br>
-            <label>Bairro:</label>
-            <output id = "bairro"></output>
-            <br>
-            <label>Cidade:</label>
-            <output id = "city"></output>
-            <br>
-            <label>UF:</label>
-            <output id = "uf"></output>
-            <br>
-            <label>DDD:</label>
-            <output id = "ddd"></output>
+    <div class="mainContent">
+        <div class="title">
+            <h2>CONSULTA CEP</h2>
+        </div>
+            <div class="contentCEP">
+                <form class="mainForm">
+                <label id="forCep">CEP</label>
+                <input placeholder="00000000" id="cep" type="text">
+                <input type="button" id="submit" onclick="verificarCep()" value="Verificar">
+                <br>
+                <label>Rua:</label>
+                <output id="logradouro"></output>
+                <br>
+                <label>Bairro:</label>
+                <output id="bairro"></output>
+                <br>
+                <label>Cidade:</label>
+                <output id="city"></output>
+                <br>
+                <label>UF:</label>
+                <output id="uf"></output>
+                <br>
+                <label>DDD:</label>
+                <output id="ddd"></output>
+                </form>
+            </div>
     </div>
-    <script src = 'index.js'></script>
+    <script src='index.js'></script>
 </body>
+
 </html>

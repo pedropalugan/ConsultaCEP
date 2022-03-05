@@ -11,3 +11,7 @@ Projeto feito utilizando API com o método _fetch_ com javasript
 <h3>API utlizada</h3>
 
 https://viacep.com.br
+
+<hr>
+
+<h3>Sobre o projeto</h3>

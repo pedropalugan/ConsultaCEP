@@ -41,6 +41,13 @@ HTML, CSS, JavaScript
 
 <hr>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 <h2>English</h2>
 
 Project made using API with the _fetch_ method with javascript

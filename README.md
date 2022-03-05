@@ -30,3 +30,5 @@ Deveria pesquisar o cep de uma certa rua, do Brasil, que o programa retornaria c
 <hr>
 
 <h3>Tecnologia utlizada</h3>
+
+HTML, CSS, JavaScript

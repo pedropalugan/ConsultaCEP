@@ -29,6 +29,12 @@ Deveria pesquisar o cep de uma certa rua, do Brasil, que o programa retornaria c
 
 <hr>
 
+<h3>Site do link</h3>
+
+https://pedropalugan.github.io/ConsultaCEP/
+
+<hr>
+
 <h3>Tecnologia utlizada</h3>
 
 HTML, CSS, JavaScript
@@ -59,6 +65,12 @@ It should search a certain street CEP (code to identify streets in Brazil), from
 ![image](https://user-images.githubusercontent.com/88800549/156860920-ffbdae6e-fc0e-496b-a4c7-32f1ed403215.png)
 
 ![image](https://user-images.githubusercontent.com/88800549/156860939-979df400-8449-416e-85a6-c489250eb357.png)
+
+<hr>
+  
+<h3>Site's link</h3>
+
+https://pedropalugan.github.io/ConsultaCEP/
 
 <hr>
 

@@ -18,3 +18,11 @@ https://viacep.com.br
 
 
 Deveria pesquisar o cep de uma certa rua, do Brasil, que o programa retornaria com os dados do endereço correspondente
+
+<hr>
+
+<h3>Resultado</h3>
+
+![image](https://user-images.githubusercontent.com/88800549/156860920-ffbdae6e-fc0e-496b-a4c7-32f1ed403215.png)
+
+

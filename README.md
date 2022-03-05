@@ -15,3 +15,6 @@ https://viacep.com.br
 <hr>
 
 <h3>Sobre o projeto</h3>
+
+
+Deveria pesquisar o cep de uma certa rua, do Brasil, que o programa retornaria com os dados do endereço correspondente

@@ -29,7 +29,7 @@ Deveria pesquisar o cep de uma certa rua, do Brasil, que o programa retornaria c
 
 <hr>
 
-<h3>Site do link</h3>
+<h3>Link do site</h3>
 
 https://pedropalugan.github.io/ConsultaCEP/
 

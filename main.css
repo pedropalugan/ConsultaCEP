@@ -17,7 +17,7 @@
 }
 
 .title {
-    margin-top: 30%;
+    margin-top: 15%;
     margin-bottom: 25%;
     font-size: xx-large;
 }
@@ -56,4 +56,29 @@ input{
 #submit:hover {
     transition: 0.25s;
     background-color: rgb(134, 152, 255);
+}
+
+
+@media (max-width: 1100px){
+    input{
+        width: 50%;
+    }
+    .mainContent{
+        width: 50%;
+        display: grid;
+    }
+}
+
+@media (max-width: 650px){
+    .title{
+        font-size: large;
+    }
+}
+
+@media (max-width: 400px){
+    .mainContent{
+        width: 75%;
+        margin-left: 12.5%;
+        margin-right: 12.5%;
+    }
 }

@@ -66,6 +66,7 @@ input{
     .mainContent{
         width: 50%;
         display: grid;
+        height: 625px;
     }
 }
 
